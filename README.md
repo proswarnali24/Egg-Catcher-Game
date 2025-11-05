@@ -1,4 +1,4 @@
-# EGG CATCHER: Developer Readme
+# EGG CATCHER:
 
 ## 🥚 Project Overview
 I built Egg Catcher, a challenging grid-based game where the goal is to successfully manage two types of falling eggs with a movable basket. The game's mechanics require quick decision-making under pressure!
