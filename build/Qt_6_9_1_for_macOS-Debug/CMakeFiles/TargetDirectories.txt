@@ -1,0 +1,9 @@
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/EggCatcher.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/EggCatcher_autogen_timestamp_deps.dir
+/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/EggCatcher_autogen.dir

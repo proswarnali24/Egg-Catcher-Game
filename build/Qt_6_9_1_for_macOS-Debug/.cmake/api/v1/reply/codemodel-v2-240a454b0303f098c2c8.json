@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-330308ea04516db61df4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EggCatcher",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EggCatcher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EggCatcher-Debug-3c4cb0c0be464e044242.json",
+					"name" : "EggCatcher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EggCatcher_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EggCatcher_autogen-Debug-99560ba2b0f1f4641b26.json",
+					"name" : "EggCatcher_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EggCatcher_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EggCatcher_autogen_timestamp_deps-Debug-98beda0386416171c210.json",
+					"name" : "EggCatcher_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sornalisen/Desktop/EggCatcher-main/build/Qt_6_9_1_for_macOS-Debug",
+		"source" : "/Users/sornalisen/Desktop/EggCatcher-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
